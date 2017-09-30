@@ -1,3 +1,7 @@
+**DEPRICATED** -- All further development is in http://github.com/wx13/version.v0.
+The new version breaks backward compatibility. This repository is left here to
+ensure packages depending on the old API continue to function properly.
+
 Version
 =======
 
